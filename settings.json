@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "frodefiscale.falix.gg",
-    "port": 26001,
+    "ip": "frodefiscale.aternos.me",
+    "port": 25065,
     "version": "1.21.11"
   },
   "position": {
