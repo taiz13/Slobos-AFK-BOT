@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "HainzSMPmanager",
-    "password": "26.1.1",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "frodefiscale.aternos.me",
     "port": 25064,
-    "version": ""
+    "version": "26.1.1"
   },
   "position": {
     "enabled": true,
