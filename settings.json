@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "frodefiscale.aternos.me",
-    "port": 25064,
-    "version": "26.1.1"
+    "ip": "sergiotacchini.falix.gg",
+    "port": 28374,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
