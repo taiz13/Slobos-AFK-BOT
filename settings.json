@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "frodefiscale.aternos.me",
-    "port": 25065,
-    "version": "1.21.11"
+    "port": 25064,
+    "version": ""
   },
   "position": {
     "enabled": true,
