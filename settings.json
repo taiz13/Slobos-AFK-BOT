@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "frodefiscale.falix.gg",
-    "port": 56679,
+    "ip": "unaltrasmp.falix.gg",
+    "port": 23026,
     "version": "1.21.11"
   },
   "position": {
